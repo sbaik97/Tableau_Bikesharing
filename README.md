@@ -41,6 +41,17 @@ Herein, we'll work with data visualization software called Tableau to present a 
 
 ## Challenge
 
+From the analysis, we’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to: (1) Show the length of time that bikes are checked out for all riders and genders (2) Show the number of bike trips for all riders and genders for each hour
+of each day of the week, (3) Show the number of bike trips for each type of user and gender for each day of the week, (4) Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+
+
+* Change Trip Duration to a Datetime Format
+Using Python and Pandas functions, you’ll convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After you convert the "tripduration" column to a datetime dataytpe, you’ll export the DataFrame as a CSV file.
+
+![NYC_Citibike_Datetime Format Chage by Python](/NYC_Citibike_Challenge.ipynb)
+
+* Change Trip Duration to a Datetime Format
+
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 * If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
