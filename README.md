@@ -24,13 +24,22 @@ Herein, we'll work with data visualization software called Tableau to present a 
 * The data is provided [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
 
-## Task
+## Tasks
 
-**Using Tableau aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story or report. The following are some questions you will need to tackle.**
+ ** Using Tableau we visualize in many aspect.**
+ * Determine the Number of Trips
+ * Find the Proportion of Short Term Customers to Annual Subscribers
+ * Find the Peak Riding Hours in August
+ * Find Top Starting and End Locations
+ * Find the Number of Rides by Gender
+ * Find the Average Trip Duration by Age
+ * Determine the Bikes Due for Repair
+ * Determine Bike Utilization
+ * Few tasks are summurized in the following dashboard.
 
 ![City Bike Dashboard](/Practice/2019_citybike.jpg)
 
-**Additionally, city officials would like to see the following visualizations:**
+## Challenge
 
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
