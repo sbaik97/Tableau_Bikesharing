@@ -26,7 +26,7 @@ Herein, we'll work with data visualization software called Tableau to present a 
 
 ## Tasks
 
- ** Using Tableau we visualize in many aspect.**
+**Using Tableau we visualize in many aspect.**
  * Determine the Number of Trips
  * Find the Proportion of Short Term Customers to Annual Subscribers
  * Find the Peak Riding Hours in August
