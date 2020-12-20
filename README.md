@@ -50,7 +50,22 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 
 ![NYC_Citibike_Datetime Format Chage by Python](/NYC_Citibike_Challenge.ipynb)
 
-* Change Trip Duration to a Datetime Format
+* Create Visualizations for the Trip Analysis
+(1) Create the Checkout Times for Users Visualization
+![City Bike worksheet1](/Image/Slide2.PNG)
+
+(2) Create the Checkout Times by Gender Visualization
+![City Bike worksheet2](Image/Slide3.PNG)
+
+(3) Create the Trips by Weekday for Each Hour Visualization
+![City Bike worksheet2](Image/Slide4.PNG)
+
+(4) Create the Trips by Gender (Weekday per Hour) Visualization
+![City Bike worksheet2](Image/Slide5.PNG)
+
+(5) Create the User Trips by Gender by Weekday Visualization
+![City Bike worksheet2](Image/Slide6.PNG)
+
 
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
